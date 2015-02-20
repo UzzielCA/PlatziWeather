@@ -94,7 +94,7 @@ input[type="submit"] {
 .card {
     position: relative;
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-color: #eaeaea;
     background-size: cover;
     background-position:center;
